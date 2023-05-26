@@ -12,3 +12,8 @@ console.log('Linha 2');
 *multiplas linhas
 */
 console.log('Linha 3');
+
+/* 
+Evitar comentarios obvios
+Preferir codigo claro é limpo 
+*/
