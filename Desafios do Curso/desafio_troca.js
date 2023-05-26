@@ -34,3 +34,4 @@ console.log(b);
 // jeito facil pelo .js //
 
  console.log([a, b] = [b, a]);
+ 
